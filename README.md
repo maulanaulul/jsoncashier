@@ -1,0 +1,1 @@
+This is fake REST API Using json placeholder to fetch in my React JS cashier app portfolio 
